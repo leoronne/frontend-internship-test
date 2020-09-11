@@ -29,3 +29,6 @@
 - Hospedar seu projeto;
 - Typescript;
 - Testes.
+
+## Ficou com alguma dúvida?
+Não hesite, nos contate pelo email leonardo.deoliveira@visor.io ou barbara@visor.io. Estaremos gratos em poder te ajudar!
